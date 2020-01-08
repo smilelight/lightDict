@@ -9,7 +9,7 @@ with open('./requirements.txt', 'r', encoding='utf8') as f:
 
 setup(
     name='lightDict',
-    version='0.0.1',
+    version='0.1.0',
     description="lightsmile's personal Chinese dictionary",
     author='lightsmile',
     author_email='iamlightsmile@gmail.com',

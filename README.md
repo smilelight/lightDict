@@ -182,4 +182,8 @@ True
 4. [【整理】Python中将（字典，列表等）变量格式化成（漂亮的，树形的，带缩进的，JSON方式的）字符串输出 – 在路上](https://www.crifan.com/format_dictionary_list_variable_into_prettified_tree_like_with_indent_json_string_then_output/)
 5. [abc --- 抽象基类 — Python 3.8.1 文档](https://docs.python.org/zh-cn/3/library/abc.html)
 6. [Python csv空行 写入csv文件 中间隔一行空行 的解决 - 兔子昂](https://www.tuziang.com/combat/714.html)
+7. [如何在Python中显式释放内存？_weixin_39363245的博客-CSDN博客](https://blog.csdn.net/weixin_39363245/article/details/90136649)
+8. [abc --- 抽象基类 — Python 3.8.1 文档](https://docs.python.org/zh-cn/3/library/abc.html)
+9. [Python进阶：With语句和上下文管理器ContextManager - 知乎](https://zhuanlan.zhihu.com/p/24709718)
+
 

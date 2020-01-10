@@ -186,4 +186,9 @@ True
 8. [abc --- 抽象基类 — Python 3.8.1 文档](https://docs.python.org/zh-cn/3/library/abc.html)
 9. [Python进阶：With语句和上下文管理器ContextManager - 知乎](https://zhuanlan.zhihu.com/p/24709718)
 
+## 打赏
+
+如果该项目对您有所帮助，欢迎打赏~
+
+![lho7wD.jpg](https://s2.ax1x.com/2020/01/10/lho7wD.jpg)
 
